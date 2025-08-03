@@ -3,7 +3,7 @@
 
 ### Using the Hosted Demo
 
-The easiest way to try the agent is by clicking the **Gradio share link** provided below (replace with your actual link):
+The easiest way to try the agent is by clicking the **Gradio share link** provided below 
 
 [Try the LangChain Agent Prototype demo here](https://f326ab02050a36acee.gradio.live/)
 
