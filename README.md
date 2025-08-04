@@ -5,7 +5,7 @@
 
 The easiest way to try the agent is by clicking the **Gradio share link** provided below 
 
-[Try the LangChain Agent Prototype demo here](https://f326ab02050a36acee.gradio.live/)
+[Try the LangChain Agent Prototype demo here](https://5b0c27555acb076d50.gradio.live/)
 
 This will open an interactive chat interface where you can ask questions and get answers instantly, no setup required!
 
